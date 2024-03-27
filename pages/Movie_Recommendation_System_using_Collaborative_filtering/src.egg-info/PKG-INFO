@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/Abu-Said-Akunji/Movie_Recommendation_System_using_Collaborative_Approach_by_Vectorization
+Author: Abu-Said-Akunji
+Author-email: tamimakunji@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+Movie Recommender System
